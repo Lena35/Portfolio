@@ -1,0 +1,9 @@
+- persoonlijke info
+- mail, linkedin, github
+- naam
+- werk ervaring
+- diploma's
+- skills
+- projecten
+- specialiteiten
+- foto
